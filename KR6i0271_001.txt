@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:40.295725
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:09
 #+TITLE: 佛說大乘智印經
 #+PROPERTY: CBETA_ID T15n0634
 #+PROPERTY: ID KR6i0271

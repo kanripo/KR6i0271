@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:40.355671
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:09
 #+TITLE: 佛說大乘智印經
 #+PROPERTY: CBETA_ID T15n0634
 #+PROPERTY: ID KR6i0271
@@ -384,8 +384,8 @@
 　福智皆平等，
 　如為我授記，¶
 　未來世成佛，
-　號名曰釋迦。」
+　號名曰釋迦。」」
 #+END_VERSE
-」¶
+¶
 《佛說大乘智印經》卷第三¶
 
