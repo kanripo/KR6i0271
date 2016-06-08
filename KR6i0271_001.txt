@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:40.295725
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:09
 #+TITLE: 佛說大乘智印經
 #+PROPERTY: CBETA_ID T15n0634
 #+PROPERTY: ID KR6i0271
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 634
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0271_T_000-0474c>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0271_T_001-0474c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.634[Nos.632,633]¶
-
- 《佛說大乘智印經》卷第一¶
+No. 634 [Nos. 632, 633]¶
+《佛說大乘智印經》卷第一¶
 ¶
 西天三藏寶法大師賜紫沙門¶
 智吉祥等奉　詔譯¶

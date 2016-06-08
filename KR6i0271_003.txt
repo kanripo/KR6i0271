@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:40.355671
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:09
 #+TITLE: 佛說大乘智印經
 #+PROPERTY: CBETA_ID T15n0634
 #+PROPERTY: ID KR6i0271
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 634
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0271_T_000-0474c>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0271_T_003-0479c> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《佛說大乘智印經》卷第三¶
+《佛說大乘智印經》卷第三¶
 ¶
 西天三藏寶法大師賜紫沙門¶
 智吉祥等奉　詔譯¶
@@ -250,7 +249,7 @@
 　如諸天境相。
 　爾時轉輪王，¶
 　而於睡夢中，
-　聞有佛出世，¶
+　間有佛出世，¶
 　其名曰髻幢。
 　於是夢覺已，¶
 　尋將所領眾，
@@ -384,8 +383,8 @@
 　福智皆平等，
 　如為我授記，¶
 　未來世成佛，
-　號名曰釋迦。」
+　號名曰釋迦。」」
 #+END_VERSE
-」¶
+¶
 《佛說大乘智印經》卷第三¶
 
